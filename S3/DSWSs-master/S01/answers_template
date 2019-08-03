@@ -1,0 +1,39 @@
+
+import numpy as np
+
+x = np.random.normal(0,1)
+y = np.random.normal(0,1)
+
+z = x+y
+
+
+##########
+
+
+echo $PWD
+
+
+##########
+
+
+ls is a command that you can use to list files in a directory.
+
+
+##########
+
+Exercises 4
+
+##########
+
+
+علیرضا وفایی صدر
+
+
+
+
+
+
+
+
+
+
