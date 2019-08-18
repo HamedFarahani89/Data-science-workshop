@@ -3,6 +3,7 @@
 this workshop afforded me the ample opportunity to improve my programming skills in data science.
 
 MAIN TOPICS	and	DETAILS
+
 1- What is data science? Linux intro.	
 We'll know data science and the road map of these courses.
 We'll know more about useful commands in Linux.	Linux Bash Shell Cheat Sheets	more...
