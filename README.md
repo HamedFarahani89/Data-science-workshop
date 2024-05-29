@@ -69,3 +69,4 @@ Perceptron, CNN, RNN, GD, SGD
 
 12- TensorFlow (I)	
 Basics; train, save, restore, tune up a model	
+---------
